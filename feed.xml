@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-06-04T16:30:33+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Jurney</title><link href="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Jurney/" rel="alternate" type="text/html" title="My OSCP Jurney" /><published>2021-06-04T00:00:00+02:00</published><updated>2021-06-04T00:00:00+02:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Jurney</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Jurney/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-06-04T20:44:17+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Jurney</title><link href="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Jurney/" rel="alternate" type="text/html" title="My OSCP Jurney" /><published>2021-06-04T00:00:00+02:00</published><updated>2021-06-04T00:00:00+02:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Jurney</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Jurney/">&lt;style&gt;
 .time {
     text-align: center;
     margin-top: 30px;
@@ -17,6 +17,10 @@
 #OSCP
 
 #offsec
+
+#PWK
+
+#PEN-200
 
 &lt;/p&gt;
 
@@ -75,16 +79,16 @@
 &lt;h2 id=&quot;pre-course&quot;&gt;Pre-course&lt;/h2&gt;
 &lt;h3 id=&quot;backgrund-and-preparation&quot;&gt;Backgrund and preparation&lt;/h3&gt;
 &lt;p&gt;When I enrolled in the PWK course, &lt;strong&gt;I had worked as a software developer for 2 years&lt;/strong&gt; and had been working as a &lt;strong&gt;Penetration Tester for another 2 years&lt;/strong&gt;. &lt;br /&gt;
-&lt;strong&gt;Prior to OSCP I had not yet obtained any certification&lt;/strong&gt;, the only course I had taken was eLearnSecurity’s PTSv4, but without attempting the related eJPT certification.&lt;/p&gt;
+&lt;strong&gt;Prior to OSCP I had not yet obtained any certification&lt;/strong&gt;, the only course I had taken was the eLearnSecurity’s PTSv4, but without attempting the related eJPT certification.&lt;/p&gt;
 
-&lt;p&gt;Having been &lt;strong&gt;self-taught for about 4 years&lt;/strong&gt;, &lt;strong&gt;playing HackTheBox for a while&lt;/strong&gt; and now &lt;strong&gt;working in the industry&lt;/strong&gt; for a couple of years, I already mastered the pre-requisites suggested by Offensive Security, so I decided to enroll.&lt;/p&gt;
+&lt;p&gt;Having been &lt;strong&gt;self-taught for about 4 years&lt;/strong&gt;, &lt;strong&gt;playing HackTheBox from a while&lt;/strong&gt; and now &lt;strong&gt;working in the industry&lt;/strong&gt; from a couple of years, I already mastered the pre-requisites suggested by Offensive Security, so I decided to enroll.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;pen-200-course-and-lab&quot;&gt;PEN-200 Course and Lab&lt;/h2&gt;
 &lt;p&gt;I &lt;strong&gt;enrolled&lt;/strong&gt; in the PEN-200 (PWK 2020) on the &lt;strong&gt;15th of Jennuary 2021&lt;/strong&gt;. The course then &lt;strong&gt;started&lt;/strong&gt; on the &lt;strong&gt;24th of Jenuary&lt;/strong&gt; with &lt;strong&gt;90 days of lab access&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;day-01-30&quot;&gt;Day 01-30&lt;/h3&gt;
-&lt;p&gt;I spent the first month &lt;strong&gt;looking at the course material&lt;/strong&gt; (850+ pdf pages and 17+ hours of video) and &lt;strong&gt;doing the exercises&lt;/strong&gt; required to get the 5 bonus points on the exam. Although they were not difficult, the &lt;strong&gt;exercises were many and required a lot of time to be done correctly&lt;/strong&gt; (to get the 5 bonus points the exercises must all be complete and correct).&lt;/p&gt;
+&lt;p&gt;I spent the first month &lt;strong&gt;looking at the course material&lt;/strong&gt; (850+ pdf pages and 17+ hours of video) and &lt;strong&gt;doing the exercises&lt;/strong&gt; required to get the 5 bonus points during the exam. Although they were not difficult, the &lt;strong&gt;exercises were many and required a lot of time to be done correctly&lt;/strong&gt; (to get the 5 bonus points the exercises must all be complete and correct), so I decided to start them from the first day.&lt;/p&gt;
 
 &lt;p&gt;While reading the pdf I also began &lt;strong&gt;structuring notes and cheatsheets&lt;/strong&gt; to use during the exam so that I would have all the useful references and commands ready at hand.&lt;/p&gt;
 
@@ -96,12 +100,12 @@
 &lt;h3 id=&quot;day-61-90&quot;&gt;Day 61-90&lt;/h3&gt;
 &lt;p&gt;During the last month of access to the lab I did the &lt;strong&gt;extra mile exercises&lt;/strong&gt; and I &lt;strong&gt;hacked as many machines as possible&lt;/strong&gt;, trying to maintain an average of &lt;strong&gt;1 machine per day&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;At the end of the lab time &lt;strong&gt;I ended up with 64 hacked machines&lt;/strong&gt; (out of a total of about 70), one domain controller completely compromised and access to all 3 internal networks.&lt;/p&gt;
+&lt;p&gt;At the end of the lab time &lt;strong&gt;I finished with 64 hacked machines&lt;/strong&gt; (out of a total of about 70), one domain controller completely compromised and access to all 3 internal networks.&lt;/p&gt;
 
 &lt;h3 id=&quot;up-to-the-day-before-the-exam&quot;&gt;Up to the day before the exam&lt;/h3&gt;
 &lt;p&gt;Between the end of the course and the final exam &lt;strong&gt;I decided to let a month pass&lt;/strong&gt; in order to have the necessary &lt;strong&gt;time to review or extend any doubts or knowledge&lt;/strong&gt; in addition to &lt;strong&gt;writing the report of the lab&lt;/strong&gt; (a complete writeup of 10 machines with different attack vector + all pdf exercises) to totalize the 5 additional points.&lt;/p&gt;
 
-&lt;p&gt;In this month I have followed &lt;strong&gt;two Udemy courses focused on Windows Privilege Escalation&lt;/strong&gt; (“&lt;em&gt;Windows Privilege Escalation for OSCP &amp;amp; Beyond!&lt;/em&gt;” and “&lt;em&gt;Windows Privilege Escalation for Beginners&lt;/em&gt;”) and I kept &lt;strong&gt;rooting as many machines as possible on HackTheBox&lt;/strong&gt; (I already had a VIP subscription) inspired by the lists of OSCP like machines that can be found on the web.&lt;/p&gt;
+&lt;p&gt;In this month I have followed &lt;strong&gt;two Udemy courses focused on Windows Privilege Escalation&lt;/strong&gt; (“&lt;em&gt;Windows Privilege Escalation for OSCP &amp;amp; Beyond!&lt;/em&gt;” and “&lt;em&gt;Windows Privilege Escalation for Beginners&lt;/em&gt;”) and I kept &lt;strong&gt;rooting as many machines as possible on HackTheBox&lt;/strong&gt; (I already had a VIP subscription) inspired by the lists of &lt;em&gt;OSCP like&lt;/em&gt; machines that can be found on the web.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/Posts/OSCP/HTB_OSCP-like-machines.jpg&quot; alt=&quot;HTB_OSCP-like-machines.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -415,7 +419,7 @@
 
     &lt;h2&gt;Share&lt;/h2&gt;
 
-    &lt;a aria-label=&quot;Share on Twitter&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;quot;&amp;quot;%20https://maoutis.github.io/posts/2021-06-04-My-OSCP-Jurney/%20via%20&amp;#64;0xbro1&amp;amp;hashtags=OSCP,offsec,&quot; onclick=&quot;window.open(this.href, 'twitter-share', 'width=550,height=235');return false;&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a aria-label=&quot;Share on Twitter&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;quot;&amp;quot;%20https://maoutis.github.io/posts/2021-06-04-My-OSCP-Jurney/%20via%20&amp;#64;0xbro1&amp;amp;hashtags=OSCP,offsec,PWK,PEN-200,&quot; onclick=&quot;window.open(this.href, 'twitter-share', 'width=550,height=235');return false;&quot; title=&quot;Share on Twitter&quot;&gt;
         &lt;svg class=&quot;icon icon-twitter&quot;&gt;&lt;use xlink:href=&quot;#icon-twitter&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
     &lt;/a&gt;
 
@@ -433,4 +437,4 @@
 &lt;p align=&quot;center&quot;&gt;Made by &lt;code&gt;0x&lt;i&gt;bro&lt;/i&gt;&lt;/code&gt; with 💜 💛  &lt;/p&gt;
 &lt;/footer&gt;
 
-&lt;script data-name=&quot;BMC-Widget&quot; data-cfasync=&quot;false&quot; src=&quot;https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js&quot; data-id=&quot;0xbro&quot; data-description=&quot;Support me on Buy me a coffee!&quot; data-message=&quot;I'm creating cyber security contents like CTF writeups, videos and articles. Do you find my work interesting? You can now offer me a cup of coffee!&quot; data-color=&quot;#BD5FFF&quot; data-position=&quot;left&quot; data-x_margin=&quot;18&quot; data-y_margin=&quot;18&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="OSCP" /><category term="offsec" /><summary type="html">04 Jun 2021 | Reading time: ~15 min My OSCP Jurney #OSCP #offsec</summary></entry></feed>
+&lt;script data-name=&quot;BMC-Widget&quot; data-cfasync=&quot;false&quot; src=&quot;https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js&quot; data-id=&quot;0xbro&quot; data-description=&quot;Support me on Buy me a coffee!&quot; data-message=&quot;I'm creating cyber security contents like CTF writeups, videos and articles. Do you find my work interesting? You can now offer me a cup of coffee!&quot; data-color=&quot;#BD5FFF&quot; data-position=&quot;left&quot; data-x_margin=&quot;18&quot; data-y_margin=&quot;18&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="OSCP" /><category term="offsec" /><category term="PWK" /><category term="PEN-200" /><summary type="html">04 Jun 2021 | Reading time: ~15 min My OSCP Jurney #OSCP #offsec #PWK #PEN-200</summary></entry></feed>
