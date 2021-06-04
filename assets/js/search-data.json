@@ -1,13 +1,13 @@
 {"0": {
     "doc": "Roadmap",
     "title": "Roadmap",
-    "content": "# Roadmap and achievements ## 2021 05/2021 - Achieved **Pro Hacker** rank on **HackTheBox** 05/2021 - Completed **Windows Privilege Escalation for OSCP & Beyond!** Udemy course 05/2021 - Completed **Windows Privilege Escalation for Beginners** Udemy course 02/2021 - Started **PEN-200** (ex PWK) course ## 2020 09/2020 - Become **Moderator** on [Inforge.net](https://www.inforge.net/) ## 2019 09/2019 - Hired as **Penetration Tester** ## 2018 10/2018 - Achieved **Hacker** rank on **HackTheBox** 04/2018 - Completed **PTSv4** (eLearnSecurity) course ## 2017 09/2017 - Hired as **Software Developer** 07/2017 - **ICT high school diploma** {% include support_btn.html %} ",
+    "content": "# Roadmap and achievements ## 2021 06/2021 - Certificated **[Offensive Security Certified Professional (OSCP)](https://www.credly.com/badges/4d593371-2011-42f2-a299-f75cf614d881)** 05/2021 - Achieved **Pro Hacker** rank on **HackTheBox** 05/2021 - Completed **Windows Privilege Escalation for OSCP & Beyond!** Udemy course 05/2021 - Completed **Windows Privilege Escalation for Beginners** Udemy course 02/2021 - Started **PEN-200** (ex PWK) course ## 2020 09/2020 - Become **Moderator** on [Inforge.net](https://www.inforge.net/) ## 2019 09/2019 - Hired as **Penetration Tester** ## 2018 10/2018 - Achieved **Hacker** rank on **HackTheBox** 04/2018 - Completed **PTSv4** (eLearnSecurity) course ## 2017 09/2017 - Hired as **Software Developer** 07/2017 - **ICT high school diploma** {% include support_btn.html %} ",
     "url": "https://maoutis.github.io/achievements/",
     "relUrl": "/achievements/"
   },"1": {
     "doc": "About me",
     "title": "About me",
-    "content": ". ## Whoami ``` maoutis@kali:~# whoami I am Mattia, aka 0xbro aka maoutis, a Penetration Tester & a cyber security enthusiast. I love everything that can be related to hacking, reversing, disassembling etc. I am also a CTF lover! My strengths: Learner, Intellection, Achiever, Analytical ``` ## About the blog ``` maoutis@kali:~# ./ab0utTh3Bl0g.sh In addition to hacking, I also like to document and share the knowledge I have learned during my sessions, so that I can also help others. Within the blog you can find writeups of the various machines I owned, my CTFs and Penetration Testing notes and other useful material such as links to various forums, link to discussions I found interesting, articles, etc. ``` ## HTB Profile [HTB profile (old)](https://www.hackthebox.eu/profile/88083){: .btn .btn-green } [HTB profile (new)](https://app.hackthebox.eu/profile/88083){: .btn .btn-green } {% include support_btn.html %} ",
+    "content": ". ## Whoami ``` maoutis@kali:~# whoami I am Mattia, aka 0xbro aka maoutis, a Penetration Tester & a cyber security enthusiast. I love everything that can be related to hacking, reversing, disassembling etc. I am also a CTF lover! My strengths: Learner, Intellection, Achiever, Analytical ``` ## About the blog ``` maoutis@kali:~# ./ab0utTh3Bl0g.sh In addition to hacking, I also like to document and share the knowledge I have learned during my sessions, so that I can also help others. Within the blog you can find writeups of the various machines I owned, my CTFs and Penetration Testing notes and other useful material such as links to various forums, link to discussions I found interesting, articles, etc. ``` ## My certifications and badges ## HTB Profile [HTB profile (old)](https://www.hackthebox.eu/profile/88083){: .btn .btn-green } [HTB profile (new)](https://app.hackthebox.eu/profile/88083){: .btn .btn-green } {% include support_btn.html %} ",
     "url": "https://maoutis.github.io/about/",
     "relUrl": "/about/"
   },"2": {
@@ -31,13 +31,13 @@
   },"5": {
     "doc": "Roadmap",
     "title": "Roadmap",
-    "content": "# Roadmap and achievements ## 2021 05/2021 - Achieved **Pro Hacker** rank on **HackTheBox** 05/2021 - Completed **Windows Privilege Escalation for OSCP & Beyond!** Udemy course 05/2021 - Completed **Windows Privilege Escalation for Beginners** Udemy course 02/2021 - Started **PEN-200** (ex PWK) course ## 2020 09/2020 - Become **Moderator** on [Inforge.net](https://www.inforge.net/) ## 2019 09/2019 - Hired as **Penetration Tester** ## 2018 10/2018 - Achieved **Hacker** rank on **HackTheBox** 04/2018 - Completed **PTSv4** (eLearnSecurity) course ## 2017 09/2017 - Hired as **Software Developer** 07/2017 - **ICT high school diploma** {% include support_btn.html %} ",
+    "content": "# Roadmap and achievements ## 2021 06/2021 - Certificated **[Offensive Security Certified Professional (OSCP)](https://www.credly.com/badges/4d593371-2011-42f2-a299-f75cf614d881)** 05/2021 - Achieved **Pro Hacker** rank on **HackTheBox** 05/2021 - Completed **Windows Privilege Escalation for OSCP & Beyond!** Udemy course 05/2021 - Completed **Windows Privilege Escalation for Beginners** Udemy course 02/2021 - Started **PEN-200** (ex PWK) course ## 2020 09/2020 - Become **Moderator** on [Inforge.net](https://www.inforge.net/) ## 2019 09/2019 - Hired as **Penetration Tester** ## 2018 10/2018 - Achieved **Hacker** rank on **HackTheBox** 04/2018 - Completed **PTSv4** (eLearnSecurity) course ## 2017 09/2017 - Hired as **Software Developer** 07/2017 - **ICT high school diploma** {% include support_btn.html %} ",
     "url": "https://maoutis.github.io/achievements/",
     "relUrl": "/achievements/"
   },"6": {
     "doc": "About me",
     "title": "About me",
-    "content": ". ## Whoami ``` maoutis@kali:~# whoami I am Mattia, aka 0xbro aka maoutis, a Penetration Tester & a cyber security enthusiast. I love everything that can be related to hacking, reversing, disassembling etc. I am also a CTF lover! My strengths: Learner, Intellection, Achiever, Analytical ``` ## About the blog ``` maoutis@kali:~# ./ab0utTh3Bl0g.sh In addition to hacking, I also like to document and share the knowledge I have learned during my sessions, so that I can also help others. Within the blog you can find writeups of the various machines I owned, my CTFs and Penetration Testing notes and other useful material such as links to various forums, link to discussions I found interesting, articles, etc. ``` ## HTB Profile [HTB profile (old)](https://www.hackthebox.eu/profile/88083){: .btn .btn-green } [HTB profile (new)](https://app.hackthebox.eu/profile/88083){: .btn .btn-green } {% include support_btn.html %} ",
+    "content": ". ## Whoami ``` maoutis@kali:~# whoami I am Mattia, aka 0xbro aka maoutis, a Penetration Tester & a cyber security enthusiast. I love everything that can be related to hacking, reversing, disassembling etc. I am also a CTF lover! My strengths: Learner, Intellection, Achiever, Analytical ``` ## About the blog ``` maoutis@kali:~# ./ab0utTh3Bl0g.sh In addition to hacking, I also like to document and share the knowledge I have learned during my sessions, so that I can also help others. Within the blog you can find writeups of the various machines I owned, my CTFs and Penetration Testing notes and other useful material such as links to various forums, link to discussions I found interesting, articles, etc. ``` ## My certifications and badges ## HTB Profile [HTB profile (old)](https://www.hackthebox.eu/profile/88083){: .btn .btn-green } [HTB profile (new)](https://app.hackthebox.eu/profile/88083){: .btn .btn-green } {% include support_btn.html %} ",
     "url": "https://maoutis.github.io/about/",
     "relUrl": "/about/"
   },"7": {
@@ -79,7 +79,7 @@
   },"13": {
     "doc": "Writeup",
     "title": "Writeup",
-    "content": "08 Jun 2019 | Reading time: ~5 min . 08 Jun 2019 . ",
+    "content": "08 Jun 2019 | Reading time: ~5 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2019-06-08-Writeup/",
     "relUrl": "/writeups/HackTheBox/2019-06-08-Writeup/"
   },"14": {
@@ -91,7 +91,7 @@
   },"15": {
     "doc": "Postman",
     "title": "Postman",
-    "content": "02 Nov 2019 | Reading time: ~6 min . 02 Nov 2019 . ",
+    "content": "02 Nov 2019 | Reading time: ~6 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2019-11-02-Postman/",
     "relUrl": "/writeups/HackTheBox/2019-11-02-Postman/"
   },"16": {
@@ -103,7 +103,7 @@
   },"17": {
     "doc": "Traverxec",
     "title": "Traverxec",
-    "content": "16 Nov 2019 | Reading time: ~7 min . 16 Nov 2019 . ",
+    "content": "16 Nov 2019 | Reading time: ~7 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2019-11-16-Traverxec/",
     "relUrl": "/writeups/HackTheBox/2019-11-16-Traverxec/"
   },"18": {
@@ -115,7 +115,7 @@
   },"19": {
     "doc": "Obscurity",
     "title": "Obscurity",
-    "content": "30 Nov 2019 | Reading time: ~7 min . 30 Nov 2019 . ",
+    "content": "30 Nov 2019 | Reading time: ~7 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2019-11-30-Obscurity/",
     "relUrl": "/writeups/HackTheBox/2019-11-30-Obscurity/"
   },"20": {
@@ -127,7 +127,7 @@
   },"21": {
     "doc": "OpenAdmin",
     "title": "OpenAdmin",
-    "content": "04 Jan 2020 | Reading time: ~6 min . 04 Jan 2020 . ",
+    "content": "04 Jan 2020 | Reading time: ~6 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2020-01-04-OpenAdmin/",
     "relUrl": "/writeups/HackTheBox/2020-01-04-OpenAdmin/"
   },"22": {
@@ -139,7 +139,7 @@
   },"23": {
     "doc": "Traceback",
     "title": "Traceback",
-    "content": "14 Mar 2020 | Reading time: ~5 min . 14 Mar 2020 . ",
+    "content": "14 Mar 2020 | Reading time: ~5 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2020-03-14-Traceback/",
     "relUrl": "/writeups/HackTheBox/2020-03-14-Traceback/"
   },"24": {
@@ -151,7 +151,7 @@
   },"25": {
     "doc": "Blunder",
     "title": "Blunder",
-    "content": "30 May 2020 | Reading time: ~6 min . 30 May 2020 . ",
+    "content": "30 May 2020 | Reading time: ~6 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2020-05-30-Blunder/",
     "relUrl": "/writeups/HackTheBox/2020-05-30-Blunder/"
   },"26": {
@@ -163,7 +163,7 @@
   },"27": {
     "doc": "Tabby",
     "title": "Tabby",
-    "content": "05 Jul 2020 | Reading time: ~5 min . 05 Jul 2020 . ",
+    "content": "05 Jul 2020 | Reading time: ~5 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2020-07-05-Tabby/",
     "relUrl": "/writeups/HackTheBox/2020-07-05-Tabby/"
   },"28": {
@@ -175,7 +175,7 @@
   },"29": {
     "doc": "Ready",
     "title": "Ready",
-    "content": "14 May 2021 | Reading time: ~8 min . 14 May 2021 . ",
+    "content": "14 May 2021 | Reading time: ~8 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2021-05-14-Ready/",
     "relUrl": "/writeups/HackTheBox/2021-05-14-Ready/"
   },"30": {
@@ -187,7 +187,7 @@
   },"31": {
     "doc": "Delivery",
     "title": "Delivery",
-    "content": "22 May 2021 | Reading time: ~10 min . 22 May 2021 . ",
+    "content": "22 May 2021 | Reading time: ~10 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2021-05-22-Delivery/",
     "relUrl": "/writeups/HackTheBox/2021-05-22-Delivery/"
   },"32": {
@@ -259,67 +259,37 @@
   },"43": {
     "doc": "ffuf",
     "title": "Web Busting &amp; Fuzzing - ffuf",
-    "content": "#ffuf #subdomain-busting #vhost-busting #web-busting . | About | Options list . | General options | Filters | Input/Output | . | Usage examples | . ",
+    "content": "#ffuf #subdomain-busting #vhost-busting #web-busting . | About | Options list . | General options | Filters | Input/Output | . | Usage examples | . About . ffuf - Fuzz Faster U Fool . A fast web fuzzer written in Go. Official Repository: https://github.com/ffuf/ffuf . Options list . General options . Filters . Input/Output . Usage examples . # Fuzz file paths from wordlist.txt, match all responses but filter out those with content-size 42. # Colored, verbose output. ffuf -w wordlist.txt -u https://example.org/FUZZ -mc all -fs 42 -c -v # Fuzz Host-header, match HTTP 200 responses. ffuf -w hosts.txt -u https://example.org/ -H \"Host: FUZZ\" -mc 200 # Fuzz POST JSON data. Match all responses not containing text \"error\". ffuf -w entries.txt -u https://example.org/ -X POST -H \"Content-Type: application/json\" \\ -d '{\"name\": \"FUZZ\", \"anotherkey\": \"anothervalue\"}' -fr \"error\" . &lt;path d=\"M12.2685,74.7342 L66.4215,74.7342 L43.1485,3.1092 C41.9515,-0.5768 36.7375,-0.5758 35.5405,3.1092 L12.2685,74.7342 Z\" \"/&gt; . Share . Made by 0xbro with 💜 💛 . ",
     "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/",
     "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/"
   },"44": {
-    "doc": "ffuf",
-    "title": "About",
-    "content": "ffuf - Fuzz Faster U Fool . A fast web fuzzer written in Go. Official Repository: https://github.com/ffuf/ffuf . ",
-    "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/#about",
-    "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/#about"
-  },"45": {
-    "doc": "ffuf",
-    "title": "Options list",
-    "content": "General options . Filters . Input/Output . ",
-    "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/#options-list",
-    "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/#options-list"
-  },"46": {
-    "doc": "ffuf",
-    "title": "Usage examples",
-    "content": "# Fuzz file paths from wordlist.txt, match all responses but filter out those with content-size 42. # Colored, verbose output. ffuf -w wordlist.txt -u https://example.org/FUZZ -mc all -fs 42 -c -v # Fuzz Host-header, match HTTP 200 responses. ffuf -w hosts.txt -u https://example.org/ -H \"Host: FUZZ\" -mc 200 # Fuzz POST JSON data. Match all responses not containing text \"error\". ffuf -w entries.txt -u https://example.org/ -X POST -H \"Content-Type: application/json\" \\ -d '{\"name\": \"FUZZ\", \"anotherkey\": \"anothervalue\"}' -fr \"error\" . &lt;path d=\"M12.2685,74.7342 L66.4215,74.7342 L43.1485,3.1092 C41.9515,-0.5768 36.7375,-0.5758 35.5405,3.1092 L12.2685,74.7342 Z\" \"/&gt; . Share . Made by 0xbro with 💜 💛 . ",
-    "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/#usage-examples",
-    "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/#usage-examples"
-  },"47": {
     "doc": "ffuf",
     "title": "ffuf",
     "content": "29 May 2021 . ",
     "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/",
     "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/"
-  },"48": {
+  },"45": {
     "doc": "gobuster",
     "title": "Web Busting &amp; Fuzzing - gobuster",
-    "content": "#gobuster #subdomain-busting #vhost-busting #web-busting . | About | General usage . | dir usage | dns usage | vhost usage | . | . ",
+    "content": "#gobuster #subdomain-busting #vhost-busting #web-busting . | About | General usage . | dir usage | dns usage | vhost usage | . | . About . Directory/File, DNS and VHost busting tool written in Go . Gobuster is a tool used to brute-force: . | URIs (directories and files) in web sites. | DNS subdomains (with wildcard support). | Virtual Host names on target web servers. | Open Amazon S3 buckets | . Official Repository: https://github.com/OJ/gobuster . General usage . ┌──(kali㉿kali)-[/opt/post-expl/windows/SysinternalsSuite] └─$ gobuster Usage: gobuster [command] Available Commands: dir Uses directory/file brutceforcing mode dns Uses DNS subdomain bruteforcing mode help Help about any command vhost Uses VHOST bruteforcing mode Flags: -h, --help help for gobuster -z, --noprogress Don't display progress -o, --output string Output file to write results to (defaults to stdout) -q, --quiet Don't print the banner and other noise -t, --threads int Number of concurrent threads (default 10) -v, --verbose Verbose output (errors) -w, --wordlist string Path to the wordlist Use \"gobuster [command] --help\" for more information about a command. dir usage . # Common directory enumeration gobuster dir -u http://10.11.1.73:8080/php/ -w /usr/share/seclists/Discovery/Web-Content/common.txt -x php,txt -t 20 -f -o phpDir.txt . dns usage . # Common sub-domain enumeration gobuster dns -d delivery.htb -w /usr/share/seclists/Discovery/Web-Content/common.txt -t 20 -o sub-domain.txt . vhost usage . # Common virtual hosts enumeration gobuster vhost -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt -u http://dms-pit.htb/ -t 25 -o vhosts.txt . &lt;path d=\"M12.2685,74.7342 L66.4215,74.7342 L43.1485,3.1092 C41.9515,-0.5768 36.7375,-0.5758 35.5405,3.1092 L12.2685,74.7342 Z\" \"/&gt; . Share . Made by 0xbro with 💜 💛 . ",
     "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/",
     "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/"
-  },"49": {
-    "doc": "gobuster",
-    "title": "About",
-    "content": "Directory/File, DNS and VHost busting tool written in Go . Gobuster is a tool used to brute-force: . | URIs (directories and files) in web sites. | DNS subdomains (with wildcard support). | Virtual Host names on target web servers. | Open Amazon S3 buckets | . Official Repository: https://github.com/OJ/gobuster . ",
-    "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/#about",
-    "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/#about"
-  },"50": {
-    "doc": "gobuster",
-    "title": "General usage",
-    "content": "┌──(kali㉿kali)-[/opt/post-expl/windows/SysinternalsSuite] └─$ gobuster Usage: gobuster [command] Available Commands: dir Uses directory/file brutceforcing mode dns Uses DNS subdomain bruteforcing mode help Help about any command vhost Uses VHOST bruteforcing mode Flags: -h, --help help for gobuster -z, --noprogress Don't display progress -o, --output string Output file to write results to (defaults to stdout) -q, --quiet Don't print the banner and other noise -t, --threads int Number of concurrent threads (default 10) -v, --verbose Verbose output (errors) -w, --wordlist string Path to the wordlist Use \"gobuster [command] --help\" for more information about a command. dir usage . # Common directory enumeration gobuster dir -u http://10.11.1.73:8080/php/ -w /usr/share/seclists/Discovery/Web-Content/common.txt -x php,txt -t 20 -f -o phpDir.txt . dns usage . # Common sub-domain enumeration gobuster dns -d delivery.htb -w /usr/share/seclists/Discovery/Web-Content/common.txt -t 20 -o sub-domain.txt . vhost usage . # Common virtual hosts enumeration gobuster vhost -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt -u http://dms-pit.htb/ -t 25 -o vhosts.txt . &lt;path d=\"M12.2685,74.7342 L66.4215,74.7342 L43.1485,3.1092 C41.9515,-0.5768 36.7375,-0.5758 35.5405,3.1092 L12.2685,74.7342 Z\" \"/&gt; . Share . Made by 0xbro with 💜 💛 . ",
-    "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/#general-usage",
-    "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/#general-usage"
-  },"51": {
+  },"46": {
     "doc": "gobuster",
     "title": "gobuster",
     "content": "29 May 2021 . ",
     "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/",
     "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/"
-  },"52": {
+  },"47": {
     "doc": "My OSCP Jurney",
     "title": "My OSCP Jurney",
-    "content": "#OSCP . Work in progress . Author: 0xbro . This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License . &lt;path d=\"M12.2685,74.7342 L66.4215,74.7342 L43.1485,3.1092 C41.9515,-0.5768 36.7375,-0.5758 35.5405,3.1092 L12.2685,74.7342 Z\" \"/&gt; . Share . Made by 0xbro with 💜 💛 . ",
+    "content": "#OSCP #offsec . | Pre-course . | Backgrund and preparation | . | PEN-200 Course and Lab . | Day 01-30 | Day 31-60 | Day 61-90 | Up to the day before the exam | . | Day before the exam | Exam . | Day one | Day two | Exam history | . | Certificate | Overview | Useful resources . | OSCP general resources | Working with Shells | General purpose hacking resource | Linux specific resources . | Post Exploitation &amp; PrivEsc . | Methodology | Cheatsheet | Tools | . | . | Windows specific resources . | Post Exploitation &amp; PrivEsc . | Methodology | Cheatsheet | Tools | . | . | . | . Pre-course . Backgrund and preparation . When I enrolled in the PWK course, I had worked as a software developer for 2 years and had been working as a Penetration Tester for another 2 years. Prior to OSCP I had not yet obtained any certification, the only course I had taken was eLearnSecurity’s PTSv4, but without attempting the related eJPT certification. Having been self-taught for about 4 years, playing HackTheBox for a while and now working in the industry for a couple of years, I already mastered the pre-requisites suggested by Offensive Security, so I decided to enroll. PEN-200 Course and Lab . I enrolled in the PEN-200 (PWK 2020) on the 15th of Jennuary 2021. The course then started on the 24th of Jenuary with 90 days of lab access. Day 01-30 . I spent the first month looking at the course material (850+ pdf pages and 17+ hours of video) and doing the exercises required to get the 5 bonus points on the exam. Although they were not difficult, the exercises were many and required a lot of time to be done correctly (to get the 5 bonus points the exercises must all be complete and correct). While reading the pdf I also began structuring notes and cheatsheets to use during the exam so that I would have all the useful references and commands ready at hand. Day 31-60 . Finally after 30 days of exercises and notes writing I was able to start hacking some boxes. I decided to start the journey following the PWK Labs Learning Path and then proceed autonomously with the “low hanging fruits”. In the meantime I took notes for each one of the machines penetrated and I wrote short writeups so that I would have an executive summary and a brief overview for each of them. Day 61-90 . During the last month of access to the lab I did the extra mile exercises and I hacked as many machines as possible, trying to maintain an average of 1 machine per day. At the end of the lab time I ended up with 64 hacked machines (out of a total of about 70), one domain controller completely compromised and access to all 3 internal networks. Up to the day before the exam . Between the end of the course and the final exam I decided to let a month pass in order to have the necessary time to review or extend any doubts or knowledge in addition to writing the report of the lab (a complete writeup of 10 machines with different attack vector + all pdf exercises) to totalize the 5 additional points. In this month I have followed two Udemy courses focused on Windows Privilege Escalation (“Windows Privilege Escalation for OSCP &amp; Beyond!” and “Windows Privilege Escalation for Beginners”) and I kept rooting as many machines as possible on HackTheBox (I already had a VIP subscription) inspired by the lists of OSCP like machines that can be found on the web. During each penetration test I always kept taking notes and writing writeups, in order to keep my second brain always updated and organized. I ended up with a total of 51 rooted machines on HTB: . | Lame - 10.10.10.3 | Legacy - 10.10.10.4 | Devel - 10.10.10.5 | Beep - 10.10.10.7 | Optimum - 10.10.10.8 | Bastard - 10.10.10.9 | Arctic - 10.10.10.11 | Grandpa - 10.10.10.14 | Granny - 10.10.10.15 | Blue - 10.10.10.40 | Shocker - 10.10.10.56 | Jeeves - 10.10.10.63 | Bashed - 10.10.10.68 | Chatterbox - 10.10.10.74 | DevOops - 10.10.10.91 | Bounty - 10.10.10.93 | Jerry - 10.10.10.95 | Active - 10.10.10.100 | SecNotes - 10.10.10.97 | Access - 10.10.10.98 | Querier - 10.10.10.125 | Netmon - 10.10.10.152 | Bastion - 10.10.10.134 | SwagShop - 10.10.10.140 | Writeup - 10.10.10.138 | Jarvis - 10.10.10.143 | Networked - 10.10.10.146 | Postman - 10.10.10.160 | Traverxec - 10.10.10.165 | Obscurity - 10.10.10.168 | OpenAdmin - 10.10.10.171 | Traceback - 10.10.10.181 | Magic - 10.10.10.185 | Admirer - 10.10.10.187 | Cache - 10.10.10.188 | Blunder - 10.10.10.191 | Tabby - 10.10.10.194 | Buff - 10.10.10.198 | Ready - 10.10.10.220 | Delivery - 10.10.10.222 | Tenet - 10.10.10.223 | ScriptKiddie - 10.10.10.226 | Ophiuchi - 10.10.10.227 | Spectra - 10.10.10.229 | TheNotebook - 10.10.10.230 | Armageddon - 10.10.10.233 | Schooled - 10.10.10.234 | Atom - 10.10.10.237 | Love - 10.10.10.239 | Pit - 10.10.10.241 | Knife - 10.10.10.242 | . To retrain my Buffer Overflow skills I also executed some exercises from the TryHackMe module Buffer Overflow Prep - Practice stack based buffer overflows!”. Day before the exam . The day before the exam I stayed completely away from the hacking world and everything related to the certification. I rested, I had company, I had fun and I tried to sleep as much as possible in preparation for the big day (sleep that actually lacked because of the pressure). Exam . Day one . The exam started at 9am, the proctors were on point and I didn’t have any kind of problem with the VPN or accessing the platforms. I started right away with the BOF machine (while the scans were running on the other machines) and after about 1 hour and 45 minutes (yes, it took me longer than it should have according to my schedule) I got the first 25 points without any great difficulty. Afterwards, I decided to take a look at all the scans and tackle one of the two 20 points machines to take the pressure off. After about 3 hours I got the user and after other 45 minutes I got the full 20 points. At that point I decided to go ahead with the second 20 points machine. After 2 hours and 30 minutes I got the user flag but from there I got stuck on the privilege escalation process for about 1 hour and 15 minutes so that I decided to try to approach an easy win 10 points machine to restore a mental balance. The 10 points machine was really a peace of cake and it took me less than 30 minutes to root it. After the 10 points machine I decided to try and tackle the last missing box before going back to try the privilege escalation on the second Medium machine. After about 2 hours and 30 minutes of intense enumeration I got the user and after other 45 minutes I got the root flag. Sure to have totaled a good margin of points to pass the exam (≈90pt) I have decided to still try an hour of privilege escalation, however without success. In the remaining time of VPN access I double-checked all the notes, procedures, exploits and I took any missing screenshots. Around 1:00 AM I went to rest for about 4 hours and at 5:00 AM I started writing the final report. Day two . The second day was all downhill. The report (which I had already structured in the previous days) was just a sequence of copying and pasting from the notes and a bit of research for vulnerability remediation, but nothing more than that. At 12:27 I had already finished checking the report and I had already submitted it. Exam history . 08:30 - Proctoring stuff 09:00 - Exam started 10:43 - 25 points Buffer Overflow box rooted 12:35 - Lunch break (30 mins) 13:34 - 20 points box (1) user shell obtained 14:14 - 20 points box (1) rooted 16:43 - 20 points box (2) user shell obtained 18:26 - 10 points box rooted 19:30 - Dinner break (30 mins) 21:06 - 25 points box user shell obtained 22:00 - 25 points box rooted 01:05 - Rest 05:00 - Breakfast 05:30 - Started writing the final report 12:27 - Submitted the final report . Certificate . The day after the delivery of the Lab and Exam reports (01/06/2021 @ 13:12) I received the email confirming the achievement of the certification. Overview . My experience with this course and certification has been overall positive. Although I feel that the work required to obtain the 5 bonus points is excessively time-consuming (considering that access to the lab is activated from day 1 and that it is not possible to stop it) the experience in the lab was exceptional: 70 and more machines almost all different from each other, different Active Directories, different internal networks to reach, interdependencies between different machines. It was really fun! . PDF and videos are very well structured and clear, perhaps a little too redundant in the two versions (many times the videos merely repeated things seen in the pdf without further elaboration). Not a big deal anyway. The exam was challenging but fun. Reporting was not an issue. The key concepts for obtaining the certification are primarily two: . | Try harder (or rather “enuemrate harder”)! | Organize your notes and cheatsheet properly | Google is your friend | . If you can master these key concepts getting certified will be a breeze. Useful resources . OSCP general resources . | Offensive Security official web site | awesome-oscp: A curated list of awesome OSCP resources | OSCP/Pen Testing Resources | OSCP Repo: A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. | . Working with Shells . | Pimp My Shell: 5 Ways to Upgrade a Netcat Shell | Upgrading Simple Shells to Fully Interactive TTYs | Reverse Shell Cheat Sheet (by HighOn.Coffee) | Reverse Shell Cheat Sheet (by pentestmonkey) | Shell Upgrade Cheat Sheet (by mlcsec) | Offensive Msfvenom: from Generating Shellcode to Creating Trojans | Msfvenom payload generation | . General purpose hacking resource . | HackTricks: the place where to find every hacking trick/technique/researches and news. | ippsec: ippsec video search | PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF | All About OSCP: find everything related to OSCP | OSCP preparation notes (by infosecsanyam) | Penetration Testing Tools Cheat Sheet (by HighOn.Coffee) | Penetration testing tools: A neat list of penetration testing (some red) tools with usage commands and examples for quick reference. Originally intended for OSCP students. | RTFM: A database of common, interesting or useful commands, in one handy referable form | Pentest-Cheatsheets (by Tib3rius) | . Linux specific resources . | pwk-cheatsheet/linux-template | Linux Snippets (by mlcsec) | Linux Commands Cheat Sheet (by HighOn.Coffee) | . Post Exploitation &amp; PrivEsc . | GTFOBins: a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. | 9 Ways to Backdoor a Linux Box | . Methodology . | Privilege Escalation Checklist (by swisskyrepo) | Privilege Escalation Checklist (by HackTricks) | Privilege Escalation Checklist (by infosecsanyam) | Basic Linux Privilege Escalation (by g0tmi1k) | . Cheatsheet . | Basic Linux Privilege Escalation (by g0tmi1k) | PayloadsAllTheThings - Linux Privilege Escalation | HackTricks - Linux Privilege Escalation | Privilege Escalation Cheatsheet (by 0xsp) | Awesome Privilege Escalation: A curated list of awesome privilege escalation | Ignitetechnologies/Privilege-Escalation : aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. | . Tools . | Linux Local Enumeration Script: performs basic linux local enumeration, a first step in the local privilege escalation process. | LinPEAS: a script that search for possible paths to escalate privileges on Linux/Unix* hosts. The checks are explained on book.hacktricks.xyz | linux-smart-enumeration: Linux enumeration tool for pentesting and CTFs with verbosity levels | unix-privesc-check: Shell script to check for simple privilege escalation vectors on Unix systems | LinEnum: Scripted Local Linux Enumeration &amp; Privilege Escalation Checks | LES (Linux Exploit Suggester): designed to assist in detecting security deficiencies for given Linux kernel/Linux-based machine. | crontab guru: The quick and simple editor for cron schedule expressions by Cronitor | . Windows specific resources . | pwk-cheatsheet/windows-template | Windows Snippets (by mlcsec) | Basics of windows from total-oscp-guide | yeyintminthuhtut/Awesome-Red-Teaming: List of Awesome Red Teaming Resources | . Post Exploitation &amp; PrivEsc . | LOLBAS: every binary, script, and library that can be used for Living Off The Land techniques. | . Methodology . | Local Windows Privilege Escalation Checklist (by HackTricks) | Windows Privilege Escalation Guide (by absolomb) | Windows Privilege Escalation Fundamentals (by FuzzySecurity) | Windows Privilege Escalation Checklists (by netbiosX) | Local Windows Privilege Escalation Checklist (by infosecsanyam) | . Cheatsheet . | PayloadsAllTheThings - Windows Privilege Escalation | HackTricks - Windows Local Privilege Escalation | Windows Privilege Escalation Guide (by absolomb) | emilyanncr/Windows-Post-Exploitation : Windows post-exploitation tools, resources, techniques and commands to use during post-exploitation phase of penetration test. | red-team-cheatsheet (by 0xsp) | Privilege Escalation Cheatsheet (by 0xsp) | Windows Privilege Escalation Fundamentals (by FuzzySecurity) | Awesome Privilege Escalation: A curated list of awesome privilege escalation | . Tools . | Seatbelt: a C# project that performs a number of security oriented host-survey “safety checks” relevant from both offensive and defensive security perspectives. | WindowsEnum: A Powershell Privilege Escalation Enumeration Script. | winPEAS: WinPEAS is a script that search for possible paths to escalate privileges on Windows hosts. The checks are explained on book.hacktricks.xyz | PowerUp: a PowerShell tool to assist with local privilege escalation on Windows systems. It contains several methods to identify and abuse vulnerable services, as well as DLL hijacking opportunities, vulnerable registry settings, and escalation opportunities. | windows-privesc-check: Standalone Executable to Check for Simple Privilege Escalation Vectors on Windows Systems | Watson: Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities | Sherlock: PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. | Windows Exploit Suggester - Next Generation: a tool based on the output of Windows’ systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities. | Windows Exploit Suggester: compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. | GhostPack-Compiled Binaries: Compiled Binaries for Ghostpack (.NET v4.0) | Nishang: Nishang - Offensive PowerShell for red team, penetration testing and offensive security. | RottenPotatoNG: New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools. | Juicy Potato: A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\\SYSTEM. | UACME: Defeating Windows User Account Control | . &lt;path d=\"M12.2685,74.7342 L66.4215,74.7342 L43.1485,3.1092 C41.9515,-0.5768 36.7375,-0.5758 35.5405,3.1092 L12.2685,74.7342 Z\" \"/&gt; . Share . Made by 0xbro with 💜 💛 . ",
     "url": "https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/",
     "relUrl": "/posts/2021-01-17-My-OSCP-Jurney/"
-  },"53": {
+  },"48": {
     "doc": "My OSCP Jurney",
     "title": "My OSCP Jurney",
-    "content": "17 Jan 2021 | Reading time: ~1 min . 17 Jan 2021 . ",
+    "content": "17 Jan 2021 | Reading time: ~1 min . ",
     "url": "https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/",
     "relUrl": "/posts/2021-01-17-My-OSCP-Jurney/"
   }

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-05-29T14:51:19+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Jurney</title><link href="https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/" rel="alternate" type="text/html" title="My OSCP Jurney" /><published>2021-01-17T21:25:16+01:00</published><updated>2021-01-17T21:25:16+01:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Jurney</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-06-04T16:16:50+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Jurney</title><link href="https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/" rel="alternate" type="text/html" title="My OSCP Jurney" /><published>2021-01-17T21:25:16+01:00</published><updated>2021-01-17T21:25:16+01:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Jurney</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/">&lt;style&gt;
 .time {
     text-align: center;
     margin-top: 30px;
@@ -10,26 +10,352 @@
 
 &lt;p class=&quot;time&quot;&gt;17 Jan 2021 | Reading time: ~1 min&lt;/p&gt;
 
-&lt;p class=&quot;time&quot;&gt;17 Jan 2021&lt;/p&gt;
-
 &lt;h1 align=&quot;center&quot;&gt;My OSCP Jurney&lt;/h1&gt;
 
 &lt;p class=&quot;time&quot; style=&quot;font-size: 75%;&quot;&gt;
 
 #OSCP
 
+#offsec
+
 &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Posts/OSCP/offsec.png&quot; alt=&quot;OSCP logo&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;no_toc text-delta&quot; id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
 
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#pre-course&quot; id=&quot;markdown-toc-pre-course&quot;&gt;Pre-course&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#backgrund-and-preparation&quot; id=&quot;markdown-toc-backgrund-and-preparation&quot;&gt;Backgrund and preparation&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pen-200-course-and-lab&quot; id=&quot;markdown-toc-pen-200-course-and-lab&quot;&gt;PEN-200 Course and Lab&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#day-01-30&quot; id=&quot;markdown-toc-day-01-30&quot;&gt;Day 01-30&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#day-31-60&quot; id=&quot;markdown-toc-day-31-60&quot;&gt;Day 31-60&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#day-61-90&quot; id=&quot;markdown-toc-day-61-90&quot;&gt;Day 61-90&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#up-to-the-day-before-the-exam&quot; id=&quot;markdown-toc-up-to-the-day-before-the-exam&quot;&gt;Up to the day before the exam&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#day-before-the-exam&quot; id=&quot;markdown-toc-day-before-the-exam&quot;&gt;Day before the exam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exam&quot; id=&quot;markdown-toc-exam&quot;&gt;Exam&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#day-one&quot; id=&quot;markdown-toc-day-one&quot;&gt;Day one&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#day-two&quot; id=&quot;markdown-toc-day-two&quot;&gt;Day two&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exam-history&quot; id=&quot;markdown-toc-exam-history&quot;&gt;Exam history&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#certificate&quot; id=&quot;markdown-toc-certificate&quot;&gt;Certificate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#overview&quot; id=&quot;markdown-toc-overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#useful-resources&quot; id=&quot;markdown-toc-useful-resources&quot;&gt;Useful resources&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#oscp-general-resources&quot; id=&quot;markdown-toc-oscp-general-resources&quot;&gt;OSCP general resources&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#working-with-shells&quot; id=&quot;markdown-toc-working-with-shells&quot;&gt;Working with Shells&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#general-purpose-hacking-resource&quot; id=&quot;markdown-toc-general-purpose-hacking-resource&quot;&gt;General purpose hacking resource&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#linux-specific-resources&quot; id=&quot;markdown-toc-linux-specific-resources&quot;&gt;Linux specific resources&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#post-exploitation--privesc&quot; id=&quot;markdown-toc-post-exploitation--privesc&quot;&gt;Post Exploitation &amp;amp; PrivEsc&lt;/a&gt;            &lt;ol&gt;
+              &lt;li&gt;&lt;a href=&quot;#methodology&quot; id=&quot;markdown-toc-methodology&quot;&gt;Methodology&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#cheatsheet&quot; id=&quot;markdown-toc-cheatsheet&quot;&gt;Cheatsheet&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#tools&quot; id=&quot;markdown-toc-tools&quot;&gt;Tools&lt;/a&gt;&lt;/li&gt;
+            &lt;/ol&gt;
+          &lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#windows-specific-resources&quot; id=&quot;markdown-toc-windows-specific-resources&quot;&gt;Windows specific resources&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#post-exploitation--privesc-1&quot; id=&quot;markdown-toc-post-exploitation--privesc-1&quot;&gt;Post Exploitation &amp;amp; PrivEsc&lt;/a&gt;            &lt;ol&gt;
+              &lt;li&gt;&lt;a href=&quot;#methodology-1&quot; id=&quot;markdown-toc-methodology-1&quot;&gt;Methodology&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#cheatsheet-1&quot; id=&quot;markdown-toc-cheatsheet-1&quot;&gt;Cheatsheet&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#tools-1&quot; id=&quot;markdown-toc-tools-1&quot;&gt;Tools&lt;/a&gt;&lt;/li&gt;
+            &lt;/ol&gt;
+          &lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr /&gt;
 
-&lt;p class=&quot;label label-red&quot;&gt;Work in progress&lt;/p&gt;
+&lt;h2 id=&quot;pre-course&quot;&gt;Pre-course&lt;/h2&gt;
+&lt;h3 id=&quot;backgrund-and-preparation&quot;&gt;Backgrund and preparation&lt;/h3&gt;
+&lt;p&gt;When I enrolled in the PWK course, &lt;strong&gt;I had worked as a software developer for 2 years&lt;/strong&gt; and had been working as a &lt;strong&gt;Penetration Tester for another 2 years&lt;/strong&gt;. &lt;br /&gt;
+&lt;strong&gt;Prior to OSCP I had not yet obtained any certification&lt;/strong&gt;, the only course I had taken was eLearnSecurity’s PTSv4, but without attempting the related eJPT certification.&lt;/p&gt;
 
-&lt;p&gt;Author: 0xbro&lt;br /&gt;
-&lt;a align=&quot;left&quot; rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc/4.0/&quot;&gt;&lt;img align=&quot;left&quot; alt=&quot;Creative Commons Licence&quot; style=&quot;border-width:0; margin: 0rem auto;&quot; src=&quot;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Having been &lt;strong&gt;self-taught for about 4 years&lt;/strong&gt;, &lt;strong&gt;playing HackTheBox for a while&lt;/strong&gt; and now &lt;strong&gt;working in the industry&lt;/strong&gt; for a couple of years, I already mastered the pre-requisites suggested by Offensive Security, so I decided to enroll.&lt;/p&gt;
 
-&lt;p&gt;This work is licensed under a &lt;a align=&quot;left&quot; rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;pen-200-course-and-lab&quot;&gt;PEN-200 Course and Lab&lt;/h2&gt;
+&lt;p&gt;I &lt;strong&gt;enrolled&lt;/strong&gt; in the PEN-200 (PWK 2020) on the &lt;strong&gt;15th of Jennuary 2021&lt;/strong&gt;. The course then &lt;strong&gt;started&lt;/strong&gt; on the &lt;strong&gt;24th of Jenuary&lt;/strong&gt; with &lt;strong&gt;90 days of lab access&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;day-01-30&quot;&gt;Day 01-30&lt;/h3&gt;
+&lt;p&gt;I spent the first month &lt;strong&gt;looking at the course material&lt;/strong&gt; (850+ pdf pages and 17+ hours of video) and &lt;strong&gt;doing the exercises&lt;/strong&gt; required to get the 5 bonus points on the exam. Although they were not difficult, the &lt;strong&gt;exercises were many and required a lot of time to be done correctly&lt;/strong&gt; (to get the 5 bonus points the exercises must all be complete and correct).&lt;/p&gt;
+
+&lt;p&gt;While reading the pdf I also began &lt;strong&gt;structuring notes and cheatsheets&lt;/strong&gt; to use during the exam so that I would have all the useful references and commands ready at hand.&lt;/p&gt;
+
+&lt;h3 id=&quot;day-31-60&quot;&gt;Day 31-60&lt;/h3&gt;
+&lt;p&gt;Finally after 30 days of exercises and notes writing I was able to start hacking some boxes. I decided to &lt;strong&gt;start the journey following the &lt;a href=&quot;https://help.offensive-security.com/hc/en-us/articles/360050473812-PWK-Labs-Learning-Path&quot;&gt;PWK Labs Learning Path&lt;/a&gt;&lt;/strong&gt; and then proceed autonomously with the “&lt;em&gt;low hanging fruits&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;p&gt;In the meantime &lt;strong&gt;I took notes for each one of the machines penetrated&lt;/strong&gt; and &lt;strong&gt;I wrote short writeups&lt;/strong&gt; so that I would have an executive summary and a brief overview for each of them.&lt;/p&gt;
+
+&lt;h3 id=&quot;day-61-90&quot;&gt;Day 61-90&lt;/h3&gt;
+&lt;p&gt;During the last month of access to the lab I did the &lt;strong&gt;extra mile exercises&lt;/strong&gt; and I &lt;strong&gt;hacked as many machines as possible&lt;/strong&gt;, trying to maintain an average of &lt;strong&gt;1 machine per day&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the end of the lab time &lt;strong&gt;I ended up with 64 hacked machines&lt;/strong&gt; (out of a total of about 70), one domain controller completely compromised and access to all 3 internal networks.&lt;/p&gt;
+
+&lt;h3 id=&quot;up-to-the-day-before-the-exam&quot;&gt;Up to the day before the exam&lt;/h3&gt;
+&lt;p&gt;Between the end of the course and the final exam &lt;strong&gt;I decided to let a month pass&lt;/strong&gt; in order to have the necessary &lt;strong&gt;time to review or extend any doubts or knowledge&lt;/strong&gt; in addition to &lt;strong&gt;writing the report of the lab&lt;/strong&gt; (a complete writeup of 10 machines with different attack vector + all pdf exercises) to totalize the 5 additional points.&lt;/p&gt;
+
+&lt;p&gt;In this month I have followed &lt;strong&gt;two Udemy courses focused on Windows Privilege Escalation&lt;/strong&gt; (“&lt;em&gt;Windows Privilege Escalation for OSCP &amp;amp; Beyond!&lt;/em&gt;” and “&lt;em&gt;Windows Privilege Escalation for Beginners&lt;/em&gt;”) and I kept &lt;strong&gt;rooting as many machines as possible on HackTheBox&lt;/strong&gt; (I already had a VIP subscription) inspired by the lists of OSCP like machines that can be found on the web.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Posts/OSCP/HTB_OSCP-like-machines.jpg&quot; alt=&quot;HTB_OSCP-like-machines.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During each penetration test I &lt;strong&gt;always kept taking notes and writing writeups&lt;/strong&gt;, in order to keep my second brain always updated and organized.&lt;/p&gt;
+
+&lt;p&gt;I ended up with a total of 51 rooted machines on HTB:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lame - 10.10.10.3 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Legacy - 10.10.10.4 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Devel - 10.10.10.5 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Beep - 10.10.10.7 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Optimum - 10.10.10.8 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Bastard - 10.10.10.9 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Arctic - 10.10.10.11 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Grandpa - 10.10.10.14 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Granny - 10.10.10.15 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Blue - 10.10.10.40 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Shocker - 10.10.10.56 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Jeeves - 10.10.10.63 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Bashed - 10.10.10.68 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Chatterbox - 10.10.10.74 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;DevOops - 10.10.10.91 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Bounty - 10.10.10.93 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Jerry - 10.10.10.95 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Active - 10.10.10.100 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;SecNotes - 10.10.10.97 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Access - 10.10.10.98 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Querier - 10.10.10.125 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Netmon - 10.10.10.152 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Bastion - 10.10.10.134 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;SwagShop - 10.10.10.140 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Writeup - 10.10.10.138 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Jarvis - 10.10.10.143 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Networked - 10.10.10.146 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Postman - 10.10.10.160 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Traverxec - 10.10.10.165 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Obscurity - 10.10.10.168 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;OpenAdmin - 10.10.10.171 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Traceback - 10.10.10.181 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Magic - 10.10.10.185 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Admirer - 10.10.10.187 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Cache - 10.10.10.188 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Blunder - 10.10.10.191 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Tabby - 10.10.10.194 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Buff - 10.10.10.198 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Ready - 10.10.10.220 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Delivery - 10.10.10.222 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Tenet - 10.10.10.223 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;ScriptKiddie - 10.10.10.226 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Ophiuchi - 10.10.10.227 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Spectra - 10.10.10.229 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;TheNotebook - 10.10.10.230 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Armageddon - 10.10.10.233 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Schooled - 10.10.10.234 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Atom - 10.10.10.237 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Love - 10.10.10.239 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Pit - 10.10.10.241 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Knife - 10.10.10.242 &lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;To retrain my Buffer Overflow skills&lt;/strong&gt; I also executed some exercises from the TryHackMe module &lt;strong&gt;&lt;a href=&quot;https://tryhackme.com/room/bufferoverflowprep&quot;&gt;Buffer Overflow Prep&lt;/a&gt;&lt;/strong&gt; - &lt;em&gt;Practice stack based buffer overflows!&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;day-before-the-exam&quot;&gt;Day before the exam&lt;/h2&gt;
+&lt;p&gt;The day before the exam &lt;strong&gt;I stayed completely away from&lt;/strong&gt; the hacking world and &lt;strong&gt;everything related to the certification&lt;/strong&gt;. I rested, I had company, I had fun and I tried to sleep as much as possible in preparation for the big day (sleep that actually lacked because of the pressure).&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;exam&quot;&gt;Exam&lt;/h2&gt;
+&lt;h3 id=&quot;day-one&quot;&gt;Day one&lt;/h3&gt;
+&lt;p&gt;The exam started at 9am, the proctors were on point and I didn’t have any kind of problem with the VPN or accessing the platforms.&lt;/p&gt;
+
+&lt;p&gt;I &lt;strong&gt;started right away with the BOF machine&lt;/strong&gt; (while the scans were running on the other machines) and after about &lt;strong&gt;1 hour and 45 minutes&lt;/strong&gt; (yes, it took me longer than it should have according to my schedule) I got the first 25 points without any great difficulty.&lt;/p&gt;
+
+&lt;p&gt;Afterwards, I decided to take a look at all the scans and tackle &lt;strong&gt;one of the two 20 points machines&lt;/strong&gt; to take the pressure off. After about &lt;strong&gt;3 hours&lt;/strong&gt; I got the user and after other &lt;strong&gt;45 minutes&lt;/strong&gt; I got the full 20 points.&lt;/p&gt;
+
+&lt;p&gt;At that point &lt;strong&gt;I decided to go ahead with the second 20 points machine&lt;/strong&gt;. After 2 hours and 30 minutes I got the user flag but from there &lt;strong&gt;I got stuck on the privilege escalation&lt;/strong&gt; process for about 1 hour and 15 minutes so that &lt;strong&gt;I decided to try&lt;/strong&gt; to approach &lt;strong&gt;an easy win 10 points machine&lt;/strong&gt; to restore a mental balance.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;10 points machine was really a peace of cake&lt;/strong&gt; and it took me less than 30 minutes to root it.&lt;/p&gt;
+
+&lt;p&gt;After the 10 points machine &lt;strong&gt;I decided to try and tackle the last missing box&lt;/strong&gt; before going back to try the privilege escalation on the second Medium machine. After about &lt;strong&gt;2 hours and 30 minutes&lt;/strong&gt; of intense enumeration I got the user and after other &lt;strong&gt;45 minutes&lt;/strong&gt; I got the root flag.&lt;/p&gt;
+
+&lt;p&gt;Sure to have totaled a good margin of points to pass the exam (≈90pt) I have decided to still try an hour of privilege escalation, however without success. In the remaining time of VPN access &lt;strong&gt;I double-checked all the notes, procedures, exploits and I took any missing screenshots&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Around 1:00 AM &lt;strong&gt;I went to rest for about 4 hours&lt;/strong&gt; and at 5:00 AM I started writing the final report.&lt;/p&gt;
+
+&lt;h3 id=&quot;day-two&quot;&gt;Day two&lt;/h3&gt;
+&lt;p&gt;The second day was all downhill. &lt;strong&gt;The report&lt;/strong&gt; (which I had already structured in the previous days) &lt;strong&gt;was just a sequence of copying and pasting from the notes&lt;/strong&gt; and a bit of research for vulnerability remediation, but nothing more than that. At &lt;strong&gt;12:27&lt;/strong&gt; I had already finished checking the report and &lt;strong&gt;I had already submitted it&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;exam-history&quot;&gt;Exam history&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;08:30&lt;/strong&gt; - Proctoring stuff&lt;br /&gt;
+&lt;strong&gt;09:00&lt;/strong&gt; - Exam started&lt;br /&gt;
+&lt;strong&gt;10:43&lt;/strong&gt; - 25 points Buffer Overflow box rooted&lt;br /&gt;
+&lt;strong&gt;12:35&lt;/strong&gt; - Lunch break (30 mins)&lt;br /&gt;
+&lt;strong&gt;13:34&lt;/strong&gt; - 20 points box (1) user shell obtained&lt;br /&gt;
+&lt;strong&gt;14:14&lt;/strong&gt; - 20 points box (1) rooted&lt;br /&gt;
+&lt;strong&gt;16:43&lt;/strong&gt; - 20 points box (2) user shell obtained&lt;br /&gt;
+&lt;strong&gt;18:26&lt;/strong&gt; - 10 points box rooted&lt;br /&gt;
+&lt;strong&gt;19:30&lt;/strong&gt; - Dinner break (30 mins)&lt;br /&gt;
+&lt;strong&gt;21:06&lt;/strong&gt; - 25 points box user shell obtained&lt;br /&gt;
+&lt;strong&gt;22:00&lt;/strong&gt; - 25 points box rooted&lt;br /&gt;
+&lt;strong&gt;01:05&lt;/strong&gt; - Rest&lt;br /&gt;
+&lt;strong&gt;05:00&lt;/strong&gt; - Breakfast&lt;br /&gt;
+&lt;strong&gt;05:30&lt;/strong&gt; - Started writing the final report&lt;br /&gt;
+&lt;strong&gt;12:27&lt;/strong&gt; - Submitted the final report&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;certificate&quot;&gt;Certificate&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The day after&lt;/strong&gt; the delivery of the Lab and Exam reports (01/06/2021 @ 13:12) &lt;strong&gt;I received the email confirming the achievement of the certification&lt;/strong&gt;.&lt;/p&gt;
+&lt;div data-iframe-width=&quot;150&quot; data-iframe-height=&quot;270&quot; data-share-badge-id=&quot;4d593371-2011-42f2-a299-f75cf614d881&quot; data-share-badge-host=&quot;https://www.credly.com&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; async=&quot;&quot; src=&quot;//cdn.credly.com/assets/utilities/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;My experience with this course and certification has been overall positive. Although I feel that the work required to obtain the 5 bonus points is excessively time-consuming (considering that access to the lab is activated from day 1 and that it is not possible to stop it) the experience in the lab was exceptional: 70 and more machines almost all different from each other, different Active Directories, different internal networks to reach, interdependencies between different machines. It was really fun!&lt;/p&gt;
+
+&lt;p&gt;PDF and videos are very well structured and clear, perhaps a little too redundant in the two versions (many times the videos merely repeated things seen in the pdf without further elaboration). Not a big deal anyway.&lt;/p&gt;
+
+&lt;p&gt;The exam was challenging but fun. Reporting was not an issue.&lt;/p&gt;
+
+&lt;p&gt;The key concepts for obtaining the certification are primarily two:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Try harder&lt;/strong&gt; (or rather “enuemrate harder”)!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Organize your notes&lt;/strong&gt; and cheatsheet &lt;strong&gt;properly&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Google is your friend&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you can master these key concepts getting certified will be a breeze.&lt;/p&gt;
+
+&lt;h2 id=&quot;useful-resources&quot;&gt;Useful resources&lt;/h2&gt;
+&lt;h3 id=&quot;oscp-general-resources&quot;&gt;OSCP general resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.offensive-security.com/&quot;&gt;Offensive Security&lt;/a&gt; official web site&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/0x4D31/awesome-oscp&quot;&gt;awesome-oscp&lt;/a&gt;: A curated list of awesome OSCP resources&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@sdgeek/oscp-pen-testing-resources-271e9e570d45&quot;&gt;OSCP/Pen Testing Resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rewardone/OSCPRepo&quot;&gt;OSCP Repo&lt;/a&gt;: A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;working-with-shells&quot;&gt;Working with Shells&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/bugbountywriteup/pimp-my-shell-5-ways-to-upgrade-a-netcat-shell-ecd551a180d2&quot;&gt;Pimp My Shell&lt;/a&gt;: 5 Ways to Upgrade a Netcat Shell&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/&quot;&gt;Upgrading Simple Shells to Fully Interactive TTYs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://highon.coffee/blog/reverse-shell-cheat-sheet/&quot;&gt;Reverse Shell Cheat Sheet&lt;/a&gt; (by HighOn.Coffee)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet&quot;&gt;Reverse Shell Cheat Sheet&lt;/a&gt; (by pentestmonkey)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mlcsec.com/shell-upgrade-cheat-sheet/&quot;&gt;Shell Upgrade Cheat Sheet&lt;/a&gt; (by mlcsec)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@PenTest_duck/offensive-msfvenom-from-generating-shellcode-to-creating-trojans-4be10179bb86&quot;&gt;Offensive Msfvenom&lt;/a&gt;: from Generating Shellcode to Creating Trojans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vuln.be/post/msfvenom-payload-generation/&quot;&gt;Msfvenom payload generation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;general-purpose-hacking-resource&quot;&gt;General purpose hacking resource&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://book.hacktricks.xyz/&quot;&gt;HackTricks&lt;/a&gt;: the place where to find every hacking trick/technique/researches and news.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ippsec.rocks/?#&quot;&gt;ippsec&lt;/a&gt;: ippsec video search&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/swisskyrepo/PayloadsAllTheThings&quot;&gt;PayloadsAllTheThings&lt;/a&gt;: A list of useful payloads and bypass for Web Application Security and Pentest/CTF&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://oscp.infosecsanyam.in/&quot;&gt;All About OSCP&lt;/a&gt;: find everything related to OSCP&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://oscpnotes.infosecsanyam.in/My_OSCP_Preparation_Notes.html&quot;&gt;OSCP preparation notes&lt;/a&gt; (by infosecsanyam)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/&quot;&gt;Penetration Testing Tools Cheat Sheet&lt;/a&gt; (by HighOn.Coffee)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://root4loot.com/pentools/&quot;&gt;Penetration testing tools&lt;/a&gt;: A neat list of penetration testing (some red) tools with usage commands and examples for quick reference. Originally intended for OSCP students.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/leostat/rtfm&quot;&gt;RTFM&lt;/a&gt;: A database of common, interesting or useful commands, in one handy referable form&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Tib3rius/Pentest-Cheatsheets&quot;&gt;Pentest-Cheatsheets&lt;/a&gt; (by Tib3rius)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;linux-specific-resources&quot;&gt;Linux specific resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ibr2/pwk-cheatsheet/blob/master/linux-template.md&quot;&gt;pwk-cheatsheet/linux-template&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mlcsec.com/posts/linux-snippets/&quot;&gt;Linux Snippets&lt;/a&gt; (by mlcsec)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://highon.coffee/blog/linux-commands-cheat-sheet/&quot;&gt;Linux Commands Cheat Sheet&lt;/a&gt; (by HighOn.Coffee)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;post-exploitation--privesc&quot;&gt;Post Exploitation &amp;amp; PrivEsc&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gtfobins.github.io/&quot;&gt;GTFOBins&lt;/a&gt;: a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@airman604/9-ways-to-backdoor-a-linux-box-f5f83bae5a3c&quot;&gt;9 Ways to Backdoor a Linux Box&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;methodology&quot;&gt;Methodology&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md#checklists&quot;&gt;Privilege Escalation Checklist&lt;/a&gt; (by swisskyrepo)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist&quot;&gt;Privilege Escalation Checklist&lt;/a&gt; (by HackTricks)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://oscp.infosecsanyam.in/priv-escalation/linux-priv-escalation/checklist-linux-privilege-escalation&quot;&gt;Privilege Escalation Checklist&lt;/a&gt; (by infosecsanyam)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/&quot;&gt;Basic Linux Privilege Escalation&lt;/a&gt; (by g0tmi1k)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;cheatsheet&quot;&gt;Cheatsheet&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/&quot;&gt;Basic Linux Privilege Escalation&lt;/a&gt; (by g0tmi1k)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md&quot;&gt;PayloadsAllTheThings - Linux Privilege Escalation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://book.hacktricks.xyz/linux-unix/privilege-escalation&quot;&gt;HackTricks - Linux Privilege Escalation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://0xsp.com/offensive/privilege-escalation-cheatsheet#toc-12&quot;&gt;Privilege Escalation Cheatsheet&lt;/a&gt; (by 0xsp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://awesomeopensource.com/project/m0nad/awesome-privilege-escalation&quot;&gt;Awesome Privilege Escalation&lt;/a&gt;: A curated list of awesome privilege escalation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Ignitetechnologies/Privilege-Escalation&quot;&gt;Ignitetechnologies/Privilege-Escalation &lt;/a&gt;: aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;tools&quot;&gt;Tools&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Arr0way/linux-local-enumeration-script&quot;&gt;Linux Local Enumeration Script&lt;/a&gt;: performs basic linux local enumeration, a first step in the local privilege escalation process.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS&quot;&gt;LinPEAS&lt;/a&gt;: a script that search for possible paths to escalate privileges on Linux/Unix* hosts. The checks are explained on &lt;a href=&quot;book.hacktricks.xyz&quot;&gt;book.hacktricks.xyz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/diego-treitos/linux-smart-enumeration&quot;&gt;linux-smart-enumeration&lt;/a&gt;: Linux enumeration tool for pentesting and CTFs with verbosity levels&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pentestmonkey/unix-privesc-check&quot;&gt;unix-privesc-check&lt;/a&gt;: Shell script to check for simple privilege escalation vectors on Unix systems&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rebootuser/LinEnum&quot;&gt;LinEnum&lt;/a&gt;:  Scripted Local Linux Enumeration &amp;amp; Privilege Escalation Checks&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mzet-/linux-exploit-suggester&quot;&gt;LES (Linux Exploit Suggester)&lt;/a&gt;: designed to assist in detecting security deficiencies for given Linux kernel/Linux-based machine.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crontab.guru/&quot;&gt;crontab guru&lt;/a&gt;: The quick and simple editor for cron schedule expressions by Cronitor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;windows-specific-resources&quot;&gt;Windows specific resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ibr2/pwk-cheatsheet/blob/master/windows-template.md&quot;&gt;pwk-cheatsheet/windows-template&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mlcsec.com/posts/windows-snippets/&quot;&gt;Windows Snippets&lt;/a&gt; (by mlcsec)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sushant747.gitbooks.io/total-oscp-guide/content/basics_of_windows.html&quot;&gt;Basics of windows&lt;/a&gt; from &lt;a href=&quot;https://sushant747.gitbooks.io/total-oscp-guide/content/&quot;&gt;total-oscp-guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yeyintminthuhtut/Awesome-Red-Teaming&quot;&gt; yeyintminthuhtut/Awesome-Red-Teaming&lt;/a&gt;: List of Awesome Red Teaming Resources&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;post-exploitation--privesc-1&quot;&gt;Post Exploitation &amp;amp; PrivEsc&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lolbas-project.github.io/#&quot;&gt;LOLBAS&lt;/a&gt;: every binary, script, and library that can be used for Living Off The Land techniques.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;methodology-1&quot;&gt;Methodology&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation&quot;&gt;Local Windows Privilege Escalation Checklist&lt;/a&gt; (by HackTricks)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/&quot;&gt;Windows Privilege Escalation Guide&lt;/a&gt; (by absolomb)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fuzzysecurity.com/tutorials/16.html&quot;&gt;Windows Privilege Escalation Fundamentals&lt;/a&gt; (by FuzzySecurity)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md&quot;&gt;Windows Privilege Escalation Checklists&lt;/a&gt; (by netbiosX)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://oscp.infosecsanyam.in/priv-escalation/windows-priv-escalation/checklist-local-windows-privilege-escalation&quot;&gt;Local Windows Privilege Escalation Checklist&lt;/a&gt; (by infosecsanyam)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;cheatsheet-1&quot;&gt;Cheatsheet&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md&quot;&gt;PayloadsAllTheThings - Windows Privilege Escalation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://book.hacktricks.xyz/windows/windows-local-privilege-escalation&quot;&gt;HackTricks - Windows Local Privilege Escalation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/&quot;&gt;Windows Privilege Escalation Guide&lt;/a&gt; (by absolomb)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/emilyanncr/Windows-Post-Exploitation&quot;&gt; emilyanncr/Windows-Post-Exploitation &lt;/a&gt;: Windows post-exploitation tools, resources, techniques and commands to use during post-exploitation phase of penetration test.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://0xsp.com/offensive/red-ops-techniques/red-team-cheatsheet&quot;&gt;red-team-cheatsheet&lt;/a&gt; (by 0xsp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://0xsp.com/offensive/privilege-escalation-cheatsheet#toc-0&quot;&gt;Privilege Escalation Cheatsheet&lt;/a&gt; (by 0xsp)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fuzzysecurity.com/tutorials/16.html&quot;&gt;Windows Privilege Escalation Fundamentals&lt;/a&gt; (by FuzzySecurity)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://awesomeopensource.com/project/m0nad/awesome-privilege-escalation&quot;&gt;Awesome Privilege Escalation&lt;/a&gt;: A curated list of awesome privilege escalation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;tools-1&quot;&gt;Tools&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GhostPack/Seatbelt&quot;&gt;Seatbelt&lt;/a&gt;: a C# project that performs a number of security oriented host-survey “safety checks” relevant from both offensive and defensive security perspectives.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/absolomb/WindowsEnum&quot;&gt;WindowsEnum&lt;/a&gt;:  A Powershell Privilege Escalation Enumeration Script.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS&quot;&gt;winPEAS&lt;/a&gt;: WinPEAS is a script that search for possible paths to escalate privileges on Windows hosts. The checks are explained on &lt;a href=&quot;book.hacktricks.xyz&quot;&gt;book.hacktricks.xyz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.powershellempire.com/?page_id=378&quot;&gt;PowerUp&lt;/a&gt;: a PowerShell tool to assist with local privilege escalation on Windows systems. It contains several methods to identify and abuse vulnerable services, as well as DLL hijacking opportunities, vulnerable registry settings, and escalation opportunities.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pentestmonkey/windows-privesc-check&quot;&gt;windows-privesc-check&lt;/a&gt;: Standalone Executable to Check for Simple Privilege Escalation Vectors on Windows Systems&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rasta-mouse/Watson&quot;&gt;Watson&lt;/a&gt;: Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rasta-mouse/Sherlock&quot;&gt;Sherlock&lt;/a&gt;: PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bitsadmin/wesng&quot;&gt;Windows Exploit Suggester - Next Generation&lt;/a&gt;: a tool based on the output of Windows’ systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/AonCyberLabs/Windows-Exploit-Suggester&quot;&gt;Windows Exploit Suggester&lt;/a&gt;: compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/r3motecontrol/Ghostpack-CompiledBinaries&quot;&gt;GhostPack-Compiled Binaries&lt;/a&gt;: Compiled Binaries for Ghostpack (.NET v4.0)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/samratashok/nishang&quot;&gt;Nishang&lt;/a&gt;: Nishang - Offensive PowerShell for red team, penetration testing and offensive security.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/breenmachine/RottenPotatoNG&quot;&gt;RottenPotatoNG&lt;/a&gt;: New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ohpe/juicy-potato&quot;&gt;Juicy Potato&lt;/a&gt;: A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hfiref0x/UACME&quot;&gt;UACME&lt;/a&gt;: Defeating Windows User Account Control&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;style&gt;
 .share {
@@ -88,7 +414,7 @@
 
     &lt;h2&gt;Share&lt;/h2&gt;
 
-    &lt;a aria-label=&quot;Share on Twitter&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;quot;&amp;quot;%20https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/%20via%20&amp;#64;0xbro1&amp;amp;hashtags=OSCP,&quot; onclick=&quot;window.open(this.href, 'twitter-share', 'width=550,height=235');return false;&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a aria-label=&quot;Share on Twitter&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;quot;&amp;quot;%20https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/%20via%20&amp;#64;0xbro1&amp;amp;hashtags=OSCP,offsec,&quot; onclick=&quot;window.open(this.href, 'twitter-share', 'width=550,height=235');return false;&quot; title=&quot;Share on Twitter&quot;&gt;
         &lt;svg class=&quot;icon icon-twitter&quot;&gt;&lt;use xlink:href=&quot;#icon-twitter&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
     &lt;/a&gt;
 
@@ -106,4 +432,4 @@
 &lt;p align=&quot;center&quot;&gt;Made by &lt;code&gt;0x&lt;i&gt;bro&lt;/i&gt;&lt;/code&gt; with 💜 💛  &lt;/p&gt;
 &lt;/footer&gt;
 
-&lt;script data-name=&quot;BMC-Widget&quot; data-cfasync=&quot;false&quot; src=&quot;https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js&quot; data-id=&quot;0xbro&quot; data-description=&quot;Support me on Buy me a coffee!&quot; data-message=&quot;I'm creating cyber security contents like CTF writeups, videos and articles. Do you find my work interesting? You can now offer me a cup of coffee!&quot; data-color=&quot;#BD5FFF&quot; data-position=&quot;left&quot; data-x_margin=&quot;18&quot; data-y_margin=&quot;18&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="OSCP" /><summary type="html">17 Jan 2021 | Reading time: ~1 min 17 Jan 2021 My OSCP Jurney #OSCP</summary></entry></feed>
+&lt;script data-name=&quot;BMC-Widget&quot; data-cfasync=&quot;false&quot; src=&quot;https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js&quot; data-id=&quot;0xbro&quot; data-description=&quot;Support me on Buy me a coffee!&quot; data-message=&quot;I'm creating cyber security contents like CTF writeups, videos and articles. Do you find my work interesting? You can now offer me a cup of coffee!&quot; data-color=&quot;#BD5FFF&quot; data-position=&quot;left&quot; data-x_margin=&quot;18&quot; data-y_margin=&quot;18&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="OSCP" /><category term="offsec" /><summary type="html">17 Jan 2021 | Reading time: ~1 min My OSCP Jurney #OSCP #offsec</summary></entry></feed>
