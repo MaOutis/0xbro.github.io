@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-06-04T16:16:50+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Jurney</title><link href="https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/" rel="alternate" type="text/html" title="My OSCP Jurney" /><published>2021-01-17T21:25:16+01:00</published><updated>2021-01-17T21:25:16+01:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Jurney</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-04T16:29:14+02:00</updated><id>/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Jurney</title><link href="/posts/2021-06-04-My-OSCP-Jurney/" rel="alternate" type="text/html" title="My OSCP Jurney" /><published>2021-06-04T00:00:00+02:00</published><updated>2021-06-04T00:00:00+02:00</updated><id>/posts/My-OSCP-Jurney</id><content type="html" xml:base="/posts/2021-06-04-My-OSCP-Jurney/">&lt;style&gt;
 .time {
     text-align: center;
     margin-top: 30px;
@@ -8,7 +8,7 @@
 }
 &lt;/style&gt;
 
-&lt;p class=&quot;time&quot;&gt;17 Jan 2021 | Reading time: ~1 min&lt;/p&gt;
+&lt;p class=&quot;time&quot;&gt;04 Jun 2021 | Reading time: ~15 min&lt;/p&gt;
 
 &lt;h1 align=&quot;center&quot;&gt;My OSCP Jurney&lt;/h1&gt;
 
@@ -221,15 +221,16 @@
 
 &lt;p&gt;The exam was challenging but fun. Reporting was not an issue.&lt;/p&gt;
 
-&lt;p&gt;The key concepts for obtaining the certification are primarily two:&lt;/p&gt;
+&lt;p&gt;The key concepts for obtaining the certification are primarily three:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Try harder&lt;/strong&gt; (or rather “enuemrate harder”)!&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Organize your notes&lt;/strong&gt; and cheatsheet &lt;strong&gt;properly&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Google is your friend&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Google is your best friend&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;If you can master these key concepts getting certified will be a breeze.&lt;/p&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;useful-resources&quot;&gt;Useful resources&lt;/h2&gt;
 &lt;h3 id=&quot;oscp-general-resources&quot;&gt;OSCP general resources&lt;/h3&gt;
 &lt;ul&gt;
@@ -414,15 +415,15 @@
 
     &lt;h2&gt;Share&lt;/h2&gt;
 
-    &lt;a aria-label=&quot;Share on Twitter&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;quot;&amp;quot;%20https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/%20via%20&amp;#64;0xbro1&amp;amp;hashtags=OSCP,offsec,&quot; onclick=&quot;window.open(this.href, 'twitter-share', 'width=550,height=235');return false;&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a aria-label=&quot;Share on Twitter&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;quot;&amp;quot;%20/posts/2021-06-04-My-OSCP-Jurney/%20via%20&amp;#64;0xbro1&amp;amp;hashtags=OSCP,offsec,&quot; onclick=&quot;window.open(this.href, 'twitter-share', 'width=550,height=235');return false;&quot; title=&quot;Share on Twitter&quot;&gt;
         &lt;svg class=&quot;icon icon-twitter&quot;&gt;&lt;use xlink:href=&quot;#icon-twitter&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
     &lt;/a&gt;
 
-    &lt;a aria-label=&quot;Share on Facebook&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/&quot; onclick=&quot;window.open(this.href, 'facebook-share','width=580,height=296');return false;&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a aria-label=&quot;Share on Facebook&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=/posts/2021-06-04-My-OSCP-Jurney/&quot; onclick=&quot;window.open(this.href, 'facebook-share','width=580,height=296');return false;&quot; title=&quot;Share on Facebook&quot;&gt;
         &lt;svg class=&quot;icon icon-facebook&quot;&gt;&lt;use xlink:href=&quot;#icon-facebook&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
     &lt;/a&gt;
 
-    &lt;a aria-label=&quot;Share on Google Plus&quot; href=&quot;https://plus.google.com/share?url=https://maoutis.github.io/posts/2021-01-17-My-OSCP-Jurney/&quot; onclick=&quot;window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;&quot; title=&quot;Share on Google+&quot;&gt;
+    &lt;a aria-label=&quot;Share on Google Plus&quot; href=&quot;https://plus.google.com/share?url=/posts/2021-06-04-My-OSCP-Jurney/&quot; onclick=&quot;window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;&quot; title=&quot;Share on Google+&quot;&gt;
         &lt;svg class=&quot;icon icon-google-plus&quot;&gt;&lt;use xlink:href=&quot;#icon-google-plus&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
     &lt;/a&gt;
 
@@ -432,4 +433,4 @@
 &lt;p align=&quot;center&quot;&gt;Made by &lt;code&gt;0x&lt;i&gt;bro&lt;/i&gt;&lt;/code&gt; with 💜 💛  &lt;/p&gt;
 &lt;/footer&gt;
 
-&lt;script data-name=&quot;BMC-Widget&quot; data-cfasync=&quot;false&quot; src=&quot;https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js&quot; data-id=&quot;0xbro&quot; data-description=&quot;Support me on Buy me a coffee!&quot; data-message=&quot;I'm creating cyber security contents like CTF writeups, videos and articles. Do you find my work interesting? You can now offer me a cup of coffee!&quot; data-color=&quot;#BD5FFF&quot; data-position=&quot;left&quot; data-x_margin=&quot;18&quot; data-y_margin=&quot;18&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="OSCP" /><category term="offsec" /><summary type="html">17 Jan 2021 | Reading time: ~1 min My OSCP Jurney #OSCP #offsec</summary></entry></feed>
+&lt;script data-name=&quot;BMC-Widget&quot; data-cfasync=&quot;false&quot; src=&quot;https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js&quot; data-id=&quot;0xbro&quot; data-description=&quot;Support me on Buy me a coffee!&quot; data-message=&quot;I'm creating cyber security contents like CTF writeups, videos and articles. Do you find my work interesting? You can now offer me a cup of coffee!&quot; data-color=&quot;#BD5FFF&quot; data-position=&quot;left&quot; data-x_margin=&quot;18&quot; data-y_margin=&quot;18&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="OSCP" /><category term="offsec" /><summary type="html">04 Jun 2021 | Reading time: ~15 min My OSCP Jurney #OSCP #offsec</summary></entry></feed>
