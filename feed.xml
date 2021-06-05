@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-06-04T21:33:08+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Journey</title><link href="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/" rel="alternate" type="text/html" title="My OSCP Journey" /><published>2021-06-04T00:00:00+02:00</published><updated>2021-06-04T00:00:00+02:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Journey</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-06-05T18:19:20+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Journey</title><link href="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/" rel="alternate" type="text/html" title="My OSCP Journey" /><published>2021-06-04T00:00:00+02:00</published><updated>2021-06-04T00:00:00+02:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Journey</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/">&lt;style&gt;
 .time {
     text-align: center;
     margin-top: 30px;
@@ -25,6 +25,8 @@
 &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/Posts/OSCP/offsec.png&quot; alt=&quot;OSCP logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Italian article available &lt;a href=&quot;https://www.inforge.net/forum/threads/la-mia-esperienza-con-la-certificazione-oscp.604245/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;no_toc text-delta&quot; id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
 
@@ -166,7 +168,7 @@
   &lt;li&gt;Knife - 10.10.10.242 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;To retrain my Buffer Overflow skills&lt;/strong&gt; I also executed some exercises from the TryHackMe module &lt;strong&gt;&lt;a href=&quot;https://tryhackme.com/room/bufferoverflowprep&quot;&gt;Buffer Overflow Prep&lt;/a&gt;&lt;/strong&gt; - &lt;em&gt;Practice stack based buffer overflows!&lt;/em&gt;”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To retrain my Buffer Overflow skills&lt;/strong&gt; I also executed some exercises from the TryHackMe module &lt;strong&gt;&lt;a href=&quot;https://tryhackme.com/room/bufferoverflowprep&quot;&gt;Buffer Overflow Prep&lt;/a&gt;&lt;/strong&gt; - &lt;em&gt;Practice stack based buffer overflows!&lt;/em&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;day-before-the-exam&quot;&gt;Day before the exam&lt;/h2&gt;
@@ -227,7 +229,7 @@
 
 &lt;p&gt;The key concepts for obtaining the certification are primarily three:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Try harder&lt;/strong&gt; (or rather “enuemrate harder”)!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Try harder&lt;/strong&gt; (or rather “enuemreate harder”)!&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Organize your notes&lt;/strong&gt; and cheatsheet &lt;strong&gt;properly&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Google is your best friend&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
