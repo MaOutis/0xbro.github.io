@@ -79,7 +79,7 @@
   },"13": {
     "doc": "Writeup",
     "title": "Writeup",
-    "content": "08 Jun 2019 | Reading time: ~5 min . ",
+    "content": ". 08 Jun 2019 | Reading time: ~5 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2019-06-08-Writeup/",
     "relUrl": "/writeups/HackTheBox/2019-06-08-Writeup/"
   },"14": {
@@ -91,7 +91,7 @@
   },"15": {
     "doc": "Postman",
     "title": "Postman",
-    "content": "02 Nov 2019 | Reading time: ~6 min . ",
+    "content": ". 02 Nov 2019 | Reading time: ~6 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2019-11-02-Postman/",
     "relUrl": "/writeups/HackTheBox/2019-11-02-Postman/"
   },"16": {
@@ -103,7 +103,7 @@
   },"17": {
     "doc": "Traverxec",
     "title": "Traverxec",
-    "content": "16 Nov 2019 | Reading time: ~7 min . ",
+    "content": ". 16 Nov 2019 | Reading time: ~7 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2019-11-16-Traverxec/",
     "relUrl": "/writeups/HackTheBox/2019-11-16-Traverxec/"
   },"18": {
@@ -115,7 +115,7 @@
   },"19": {
     "doc": "Obscurity",
     "title": "Obscurity",
-    "content": "30 Nov 2019 | Reading time: ~7 min . ",
+    "content": ". 30 Nov 2019 | Reading time: ~7 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2019-11-30-Obscurity/",
     "relUrl": "/writeups/HackTheBox/2019-11-30-Obscurity/"
   },"20": {
@@ -127,7 +127,7 @@
   },"21": {
     "doc": "OpenAdmin",
     "title": "OpenAdmin",
-    "content": "04 Jan 2020 | Reading time: ~6 min . ",
+    "content": ". 04 Jan 2020 | Reading time: ~6 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2020-01-04-OpenAdmin/",
     "relUrl": "/writeups/HackTheBox/2020-01-04-OpenAdmin/"
   },"22": {
@@ -139,7 +139,7 @@
   },"23": {
     "doc": "Traceback",
     "title": "Traceback",
-    "content": "14 Mar 2020 | Reading time: ~5 min . ",
+    "content": ". 14 Mar 2020 | Reading time: ~5 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2020-03-14-Traceback/",
     "relUrl": "/writeups/HackTheBox/2020-03-14-Traceback/"
   },"24": {
@@ -151,7 +151,7 @@
   },"25": {
     "doc": "Blunder",
     "title": "Blunder",
-    "content": "30 May 2020 | Reading time: ~6 min . ",
+    "content": ". 30 May 2020 | Reading time: ~6 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2020-05-30-Blunder/",
     "relUrl": "/writeups/HackTheBox/2020-05-30-Blunder/"
   },"26": {
@@ -163,7 +163,7 @@
   },"27": {
     "doc": "Tabby",
     "title": "Tabby",
-    "content": "05 Jul 2020 | Reading time: ~5 min . ",
+    "content": ". 05 Jul 2020 | Reading time: ~5 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2020-07-05-Tabby/",
     "relUrl": "/writeups/HackTheBox/2020-07-05-Tabby/"
   },"28": {
@@ -175,7 +175,7 @@
   },"29": {
     "doc": "Ready",
     "title": "Ready",
-    "content": "14 May 2021 | Reading time: ~8 min . ",
+    "content": ". 14 May 2021 | Reading time: ~8 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2021-05-14-Ready/",
     "relUrl": "/writeups/HackTheBox/2021-05-14-Ready/"
   },"30": {
@@ -187,7 +187,7 @@
   },"31": {
     "doc": "Delivery",
     "title": "Delivery",
-    "content": "22 May 2021 | Reading time: ~10 min . ",
+    "content": ". 22 May 2021 | Reading time: ~10 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2021-05-22-Delivery/",
     "relUrl": "/writeups/HackTheBox/2021-05-22-Delivery/"
   },"32": {
@@ -199,7 +199,7 @@
   },"33": {
     "doc": "ScriptKiddie",
     "title": "ScriptKiddie",
-    "content": "05 Jun 2021 | Reading time: ~7 min . ",
+    "content": ". 05 Jun 2021 | Reading time: ~7 min . ",
     "url": "https://maoutis.github.io/writeups/HackTheBox/2021-06-05-ScriptKiddie/",
     "relUrl": "/writeups/HackTheBox/2021-06-05-ScriptKiddie/"
   },"34": {
@@ -229,7 +229,7 @@
   },"38": {
     "doc": "Dynamic Servers",
     "title": "Dynamic Servers",
-    "content": "29 May 2021 . ",
+    "content": ". 29 May 2021 . ",
     "url": "https://maoutis.github.io/cheatsheet/Misc/Dynamic%20Servers/",
     "relUrl": "/cheatsheet/Misc/Dynamic%20Servers/"
   },"39": {
@@ -253,7 +253,7 @@
   },"42": {
     "doc": "Tmux",
     "title": "Tmux",
-    "content": "29 May 2021 . ",
+    "content": ". 29 May 2021 . ",
     "url": "https://maoutis.github.io/cheatsheet/Terms%20&%20Editors/Tmux/",
     "relUrl": "/cheatsheet/Terms%20&%20Editors/Tmux/"
   },"43": {
@@ -277,7 +277,7 @@
   },"46": {
     "doc": "ffuf",
     "title": "ffuf",
-    "content": "29 May 2021 . ",
+    "content": ". 29 May 2021 . ",
     "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/",
     "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/ffuf/"
   },"47": {
@@ -289,7 +289,7 @@
   },"48": {
     "doc": "gobuster",
     "title": "gobuster",
-    "content": "29 May 2021 . ",
+    "content": ". 29 May 2021 . ",
     "url": "https://maoutis.github.io/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/",
     "relUrl": "/cheatsheet/Web%20Busting%20&%20Fuzzing/gobuster/"
   },"49": {
@@ -301,7 +301,7 @@
   },"50": {
     "doc": "My OSCP Journey",
     "title": "My OSCP Journey",
-    "content": "04 Jun 2021 | Reading time: ~15 min . ",
+    "content": ". 04 Jun 2021 | Reading time: ~15 min . ",
     "url": "https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/",
     "relUrl": "/posts/2021-06-04-My-OSCP-Journey/"
   }

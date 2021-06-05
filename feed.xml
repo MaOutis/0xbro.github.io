@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-06-06T01:22:35+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Journey</title><link href="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/" rel="alternate" type="text/html" title="My OSCP Journey" /><published>2021-06-04T00:00:00+02:00</published><updated>2021-06-04T00:00:00+02:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Journey</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://maoutis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maoutis.github.io/" rel="alternate" type="text/html" /><updated>2021-06-06T01:32:21+02:00</updated><id>https://maoutis.github.io/feed.xml</id><title type="html">0xbro@blog</title><subtitle>0xbro (aka maoutis) personal site and blog about cyber security, CTFs, penetration testing and much more!</subtitle><entry><title type="html">My OSCP Journey</title><link href="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/" rel="alternate" type="text/html" title="My OSCP Journey" /><published>2021-06-04T00:00:00+02:00</published><updated>2021-06-04T00:00:00+02:00</updated><id>https://maoutis.github.io/posts/My-OSCP-Journey</id><content type="html" xml:base="https://maoutis.github.io/posts/2021-06-04-My-OSCP-Journey/">&lt;style&gt;
 .time {
     text-align: center;
     margin-top: 30px;
@@ -8,9 +8,10 @@
 }
 &lt;/style&gt;
 
+&lt;head&gt;
 &lt;meta property=&quot;og:image&quot; content=&quot;https://maoutis.github.io/assets/images/Posts/OSCP/icon.jpg&quot; /&gt;
-
 &lt;meta name=&quot;twitter:image&quot; content=&quot;https://maoutis.github.io/assets/images/Posts/OSCP/icon.jpg&quot; /&gt;
+&lt;/head&gt;
 
 &lt;p class=&quot;time&quot;&gt;04 Jun 2021 | Reading time: ~15 min&lt;/p&gt;
 
